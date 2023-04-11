@@ -302,6 +302,7 @@ transition: .5s ease;
 /* ----------------about dub ---------------- */
 .about-us-main{
   padding: 4rem 7%;
+
 }
 
 .about-us-main h1{
@@ -531,7 +532,8 @@ align-items: flex-start;
   /* position: fixed; */
 
 width: 100vw;
-margin-bottom: 10rem;
+/* margin-bottom: 10rem; */
+
 
 }
 
@@ -1360,7 +1362,7 @@ color: #e5262b;
   }
 
 }
-@media (max-width: 350px) {
+@media (max-width: 365px) {
   html {
     font-size: 40%;
 
